@@ -113,3 +113,36 @@ By finishing, you can say:
 > “I built an AI assistant on AWS EC2 that troubleshoots, optimizes, and monitors production servers.”
 
 ---
+
+## About Me  
+
+Hi, I’m **Emmanuel Naweji (PhD-CS in progress)** — a **DevOps, Cloud, Infrastructure, and SRE Engineer** passionate about building **resilient, scalable, and AI-powered platforms**.  
+
+- **Current Focus:** PhD in Computer Science with a research emphasis on **AI & Machine Learning** applied to **Healthcare, Cloud, and DevOps**.  
+- **Strengths:** Merging **Agentic AI** with **DevOps/SRE practices** for **self-healing infrastructure, cost optimization, and security automation**.  
+- ️ **Cloud Expertise:** AWS, Azure, GCP (multi-cloud, hybrid, and enterprise-scale solutions).  
+-  **Core Skills:**  
+  - Infrastructure as Code (Terraform, Crossplane, Ansible)  
+  - Containers & Orchestration (Docker, Kubernetes, ArgoCD, Helm)  
+  - CI/CD Pipelines (GitHub Actions, Jenkins, Azure DevOps)  
+  - Observability & SRE (Prometheus, Grafana, OpenTelemetry, AI-driven monitoring)  
+  - DevSecOps (Trivy, OPA, IAM, policy-as-code)  
+  - FinOps (cost optimization dashboards, forecasting, anomaly detection with AI)  
+
+---
+
+## Certifications  
+
+- **AWS Certified Solutions Architect**  
+- **Microsoft Certified: Azure Administrator**  
+- **HashiCorp Certified: Terraform Associate**  
+- **Certified Kubernetes Administrator (CKA)**  
+
+---
+
+## Let’s Connect  
+
+- [LinkedIn](https://linkedin.com/in/ready2assist)  
+- [GitHub](https://github.com/Here2ServeU)  
+
+---
