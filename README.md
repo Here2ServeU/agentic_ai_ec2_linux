@@ -116,7 +116,7 @@ By finishing, you can say:
 
 ## About Me  
 
-Top 1% DevOps, Cloud, Infra, and SRE Engineer with expertise in AI integration.  
+DevOps, Cloud, Infra, and SRE Engineer with expertise in AI integration.  
 Currently pursuing a PhD in Computer Science with a focus on AI & Machine Learning in Healthcare, Cloud, and DevOps.  
 
 ---
