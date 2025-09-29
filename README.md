@@ -135,6 +135,7 @@ Currently pursuing a PhD in Computer Science with a focus on AI & Machine Learni
 ![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-E6522C?logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Monitoring-Grafana-F46800?logo=grafana&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/AI-OpenAI-412991?logo=openai&logoColor=white)
+![PhD-CS](https://img.shields.io/badge/PhD-CS%20(In%20Progress)-lightgrey)
 
 ---
 
