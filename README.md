@@ -116,33 +116,33 @@ By finishing, you can say:
 
 ## About Me  
 
-Hi, I’m **Emmanuel Naweji (PhD-CS in progress)** — a **DevOps, Cloud, Infrastructure, and SRE Engineer** passionate about building **resilient, scalable, and AI-powered platforms**.  
+Top 1% DevOps, Cloud, Infra, and SRE Engineer with expertise in AI integration.  
+Currently pursuing a PhD in Computer Science with a focus on AI & Machine Learning in Healthcare, Cloud, and DevOps.  
 
-- **Current Focus:** PhD in Computer Science with a research emphasis on **AI & Machine Learning** applied to **Healthcare, Cloud, and DevOps**.  
-- **Strengths:** Merging **Agentic AI** with **DevOps/SRE practices** for **self-healing infrastructure, cost optimization, and security automation**.  
-- ️ **Cloud Expertise:** AWS, Azure, GCP (multi-cloud, hybrid, and enterprise-scale solutions).  
--  **Core Skills:**  
-  - Infrastructure as Code (Terraform, Crossplane, Ansible)  
-  - Containers & Orchestration (Docker, Kubernetes, ArgoCD, Helm)  
-  - CI/CD Pipelines (GitHub Actions, Jenkins, Azure DevOps)  
-  - Observability & SRE (Prometheus, Grafana, OpenTelemetry, AI-driven monitoring)  
-  - DevSecOps (Trivy, OPA, IAM, policy-as-code)  
-  - FinOps (cost optimization dashboards, forecasting, anomaly detection with AI)  
+---
+
+## Skills & Tools  
+
+![AWS](https://img.shields.io/badge/Cloud-AWS-orange?logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Cloud-Azure-blue?logo=microsoft-azure&logoColor=white)
+![GCP](https://img.shields.io/badge/Cloud-GCP-blue?logo=google-cloud&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-326ce5?logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Containers-Docker-2496ED?logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-844FBA?logo=terraform&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/GitOps-ArgoCD-ff6600?logo=argo&logoColor=white)
+![Jenkins](https://img.shields.io/badge/CI/CD-Jenkins-d24939?logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-E6522C?logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Monitoring-Grafana-F46800?logo=grafana&logoColor=white)
+![OpenAI](https://img.shields.io/badge/AI-OpenAI-412991?logo=openai&logoColor=white)
 
 ---
 
 ## Certifications  
 
-- **AWS Certified Solutions Architect**  
-- **Microsoft Certified: Azure Administrator**  
-- **HashiCorp Certified: Terraform Associate**  
-- **Certified Kubernetes Administrator (CKA)**  
-
----
-
-## Let’s Connect  
-
-- [LinkedIn](https://linkedin.com/in/ready2assist)  
-- [GitHub](https://github.com/Here2ServeU)  
+![AWS Solutions Architect](https://img.shields.io/badge/Certification-AWS%20Solutions%20Architect-orange?logo=amazon-aws&logoColor=white)
+![Azure Solutions Architect Expert](https://img.shields.io/badge/Certification-Azure%20Solutions%20Architect%20Expert-blue?logo=microsoft-azure&logoColor=white)
+![Terraform Associate](https://img.shields.io/badge/Certification-Terraform%20Associate-844FBA?logo=terraform&logoColor=white)
+![CKA](https://img.shields.io/badge/Certification-CKA-326ce5?logo=kubernetes&logoColor=white)
 
 ---
